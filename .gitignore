@@ -1,3 +1,4 @@
 p*.md
 t*.md
 .DS_Store
+scripts/gen*.py
